@@ -1,70 +1,110 @@
 <div align="center">
 
-# 👋 Hi, I'm Ranjan Gupta
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=RANJAN%20GUPTA&fontSize=55&color=0:0B1020,50:123C69,100:00D9FF&fontColor=FFFFFF&stroke=00D9FF&strokeWidth=1&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descSize=15&descAlignY=70" width="100%" alt="Ranjan Gupta developer banner" />
 
-### 💻 Full Stack Developer | 🤖 AI/ML Enthusiast
+<br/>
 
-**Building projects • Solving problems • Learning every day**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences;MERN+Stack+Developer;Exploring+Artificial+Intelligence;Turning+Ideas+Into+Code" alt="Animated introduction" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;Exploring+Artificial+Intelligence;Practicing+Data+Structures+%26+Algorithms" alt="Typing introduction" />
+<br/>
+
+<a href="https://github.com/Ranjan-githu?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore projects"/>
+</a>
+
+<a href="https://github.com/Ranjan-githu">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01` — ABOUT ME
 
-* 🎓 B.Tech student in Computer Science Engineering
-* 🚀 Developing full-stack applications using the MERN stack
-* 🤖 Exploring Artificial Intelligence and Machine Learning
-* 🧠 Improving problem-solving and DSA skills
-* 🌱 Always learning new technologies and building projects
+```text
+NAME       : Ranjan Gupta
+EDUCATION  : B.Tech — Computer Science Engineering
+FOCUS      : Full Stack Development
+EXPLORING  : Artificial Intelligence & Machine Learning
+MINDSET    : Learn → Build → Improve → Repeat
+```
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,python,java,git,github,vscode" alt="Technology icons" />
-</p>
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranjan-githu&show_icons=true&hide=issues&theme=tokyonight&hide_border=true&rank_icon=none" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjan-githu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Most used languages" />
-</p>
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranjan-githu&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" width="100%" />
-</p>
-
-## 🚀 My Projects
-
-Explore my repositories to see my projects and code.
-
-<p align="center">
-  <a href="https://github.com/Ranjan-githu?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
-  </a>
-</p>
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Ranjan-githu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <!-- Replace this with your actual LinkedIn profile URL -->
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
-</p>
+* 💻 Building web applications with the MERN stack.
+* 🧠 Practicing Data Structures and Algorithms.
+* 🤖 Exploring AI/ML and Python.
+* 🚀 Interested in building useful, real-world projects.
 
 ---
 
+## `02` — TECH ARSENAL
+
 <div align="center">
 
-### ✨ Keep Learning. Keep Building. Keep Growing. 🚀
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,python,java,git,github,vscode&perline=7" alt="Development technologies"/>
+
+</div>
+
+---
+
+## `03` — GITHUB ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ranjan-githu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=none&include_all_commits=true" width="49%" alt="GitHub statistics"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjan-githu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" alt="Most used programming languages"/>
+
+</div>
+
+---
+
+## `04` — CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranjan-githu&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=RANJAN'S%20CODING%20ACTIVITY" width="100%" alt="Contribution activity graph"/>
+
+</div>
+
+---
+
+## `05` — EXPLORE MY WORK
+
+<div align="center">
+
+<a href="https://github.com/Ranjan-githu?tab=repositories">
+<img src="https://img.shields.io/badge/ALL%20REPOSITORIES-101827?style=for-the-badge&logo=github&logoColor=00D9FF" alt="All repositories"/>
+</a>
+
+<p>Explore my repositories to discover my projects, experiments, and code.</p>
+
+</div>
+
+---
+
+## `06` — CONNECT
+
+<div align="center">
+
+<a href="https://github.com/Ranjan-githu">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub profile"/>
+</a>
+
+<!-- Replace the URL below with your actual LinkedIn profile -->
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn profile"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:123C69,50:00D9FF,100:123C69" width="100%" alt="Footer divider"/>
+
+**`BUILDING THE FUTURE, ONE COMMIT AT A TIME.`**
+
+<sub>Designed with 💙 by Ranjan Gupta</sub>
 
 </div>
