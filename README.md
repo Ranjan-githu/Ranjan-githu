@@ -34,6 +34,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ranjan-githu&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
+## 📈 My Contributions
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ranjan-githu&theme=tokyo-night)
 
 ## 🤝 Connect With Me
 
